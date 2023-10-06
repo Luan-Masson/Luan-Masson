@@ -11,7 +11,7 @@
 <code><img height="20" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 
-<a href="https://linkedin.com/luanmasson"><img width=20 heigth=20 src="https://www.svgrepo.com/show/183624/linkedin.svg" alt="Linkedin"></a>
+<a href="https://linkedin.com/in/luanmasson" target="blank"><img width=20 heigth=20 src="https://www.svgrepo.com/show/183624/linkedin.svg" alt="Linkedin"></a>
 
 
 <div>
