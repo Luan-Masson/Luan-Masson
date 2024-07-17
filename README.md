@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on WebSis
 - 🌱 I’m currently learning TypeScript && Java SpringBoot
-- 📫 How to reach me: luan0masson@gmail.com
+- 📫 How to reach me: luan0.masson@gmail.com
 - 😄 Pronouns: he/his
 
 <div>
