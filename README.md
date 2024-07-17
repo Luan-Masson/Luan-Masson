@@ -22,9 +22,9 @@
   </div>
 </div>
 <br>
-<div align=center>
+<!-- <div align=center>
   <h2>Stats</h2>
   <a href="https://github.com/Luan-Masson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Luan-Masson&show_icons=true&include_all_commits=true&hide_border=true" alt="Luan's github     
   stats"/></a>
   <a href="https://github.com/Luan-Masson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Masson&layout=compact&hide_border=true" /></a> 
-</div>
+</div> -->
