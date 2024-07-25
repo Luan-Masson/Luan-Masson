@@ -1,5 +1,7 @@
 <h1 style="font-family: Arial, Helvetica, sans-serif;">Hey!! Luan Masson here!</h1>
-
+<h3 style="font-family: Arial, Helvetica, sans-serif;">
+  I have 1.7 years of experience as a web developer, with a main focus on Front End. During my career, I have focused my studies on UI/UX theories to create interfaces that combine aesthetics and usability effectively.
+</h3>
 <div>
   <div align=left>
     <h2>Lenguages</h2>
@@ -9,7 +11,7 @@
     <code><img height="20" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
     <code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
   </div>
-  <div align=right>
+  <div align=left>
    <h2>Socials</h2>
     <a href="https://linkedin.com/in/luanmasson" align=right target="_blank"><img width=20 heigth=20 src="https://www.svgrepo.com/show/183624/linkedin.svg" alt="Linkedin"></a>
     &nbsp
