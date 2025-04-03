@@ -7,9 +7,9 @@
     <h2>Programming Languages</h2>
     <p align="left">
       <h5>Already Worked With:</h5>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,angular,vue,java,spring,postgres,npm&perline=7"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,angular,vue,java,spring,postgres,npm,unity,cs&perline=7"/>
       <h5>Studied:</h5>
-      <img src="https://skillicons.dev/icons?i=py,php,cpp,cs,unity,vite"/>
+      <img src="https://skillicons.dev/icons?i=py,php,cpp,cs,unity,vite,unreal"/>
       <h5>Tools:</h5>
       <img src="https://skillicons.dev/icons?i=windows,linux,vscode,idea,visualstudio,postman,unity,github,gitlab,figma&perline=7"/>
     </p>
